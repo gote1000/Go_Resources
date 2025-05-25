@@ -24,8 +24,9 @@
 - **App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918)**
 - In person: [Baduk.club](https://baduk.club/welcome)
 - Online: [OGS](https://online-go.com/)
+- Online: [Board from TripleKo](https://board.tripleko.com/)
 
-## Learn about the game
+## Periphery about the game
 
 ### Audio / video
 
@@ -40,3 +41,9 @@
 - Book: The Treasure Chest Enigma by Noriyuki Nakayama
 - Magazine: [Go World Magazine back issues 1977-2012](https://kiseidodigital.gumroad.com/l/gwa)
 - Magazine: [Finding Seki 2024-](https://www.etsy.com/shop/FindingSeki)
+
+### Collections
+
+- List: [Xióngwěi Wong's Online resources](https://weiqi.soumyak4.in/posts/weiqi-resources/)
+- List: [OGS Other Go Resources](https://online-go.com/docs/other-go-resources)
+- Wiki: [Sensei's Library](https://senseis.xmp.net/)
