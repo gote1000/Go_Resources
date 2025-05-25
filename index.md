@@ -1,5 +1,3 @@
-# Gote's Go Resources
-
 *I like go and maybe you do too*
 
 ## Learn to play game
@@ -16,7 +14,7 @@
 - **Book series: [Learn to Play Go by Janice Kim](https://www.biblio.com/9781453632895)**
 - Video: [The Fundamentals of Go on 13×13 by Vadim Efimenko of Go Magic](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
 
-## Practice Problems / Tsumego
+### Practice Problems / Tsumego
 
 - **Web: [Black to Play](https://blacktoplay.com/)**
 - Book series: [Graded Go Problems by Kiseido](https://www.biblio.com/book/graded-go-problems-beginners-introductory-problems/d/1518181143)
@@ -36,8 +34,9 @@
 - Episodic video: [Dan and the Kyu](https://www.youtube.com/@DanandtheKyu)
 - Video lecture: [Kajiwara Takeo: The Giant Who Made Titans by Matthew McKee of Go Magic](https://gomagic.org/courses/kajiwara-takeo/)
 
-## Words
+### Words
 
 - **Social: [Gote on Mastadon](https://social.seattle.wa.us/home)**
 - Book: The Treasure Chest Enigma by Noriyuki Nakayama
 - Magazine: [Go World Magazine back issues 1977-2012](https://kiseidodigital.gumroad.com/l/gwa)
+- Magazine: [Finding Seki 2024-](https://www.etsy.com/shop/FindingSeki)
