@@ -1,5 +1,7 @@
 *I like go and maybe you do too*
 
+Huge thank you to [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in/posts/weiqi-resources/) as the inspiration for this page.
+
 ## Learn to play game
 
 ### Introduction
@@ -21,29 +23,29 @@
 
 ## Play the game
 
-- **App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918)**
+- **App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918)** - *Great for practicing 9x9*
 - In person: [Baduk.club](https://baduk.club/welcome)
-- Online: [OGS](https://online-go.com/)
-- Online: [Board from TripleKo](https://board.tripleko.com/)
+- Online: [OGS](https://online-go.com/) - *Requires an account. Popular English language server.*
+- Online: [Board from TripleKo](https://board.tripleko.com/) - *No account necessary*
 
 ## Periphery about the game
 
 ### Audio / video
 
-- **Podcast: [All Things Go](https://allthingsgogame.alitu.com/)**
-- Podcast: [Star Point](https://starpointbaduk.com/)
-- Episodic video: [Dan and the Kyu](https://www.youtube.com/@DanandtheKyu)
-- Video lecture: [Kajiwara Takeo: The Giant Who Made Titans by Matthew McKee of Go Magic](https://gomagic.org/courses/kajiwara-takeo/)
+- **Podcast: [All Things Go](https://allthingsgogame.alitu.com/)** - *"Season" structure. Many great interviews*
+- Podcast: [Star Point](https://starpointbaduk.com/) - *Weekly*
+- Youtube series: [Dan and the Kyu](https://www.youtube.com/@DanandtheKyu)
+- Video lecture: [Kajiwara Takeo: The Giant Who Made Titans by Matthew McKee of Go Magic](https://gomagic.org/courses/kajiwara-takeo/) - *Inspiring at any level*
 
 ### Words
 
 - **Social: [Gote on Mastadon](https://social.seattle.wa.us/home)**
+- **Magazine: [Go World Magazine back issues 1977-2012](https://kiseidodigital.gumroad.com/l/gwa) - *If you have a budget for written go material, this is the best bang for your buck as a DDK looking for immersion***
 - Book: The Treasure Chest Enigma by Noriyuki Nakayama
-- Magazine: [Go World Magazine back issues 1977-2012](https://kiseidodigital.gumroad.com/l/gwa)
 - Magazine: [Finding Seki 2024-](https://www.etsy.com/shop/FindingSeki)
 
 ### Collections
 
-- List: [Xióngwěi Wong's Online resources](https://weiqi.soumyak4.in/posts/weiqi-resources/)
+- List: [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in/posts/weiqi-resources/)
 - List: [OGS Other Go Resources](https://online-go.com/docs/other-go-resources)
 - Wiki: [Sensei's Library](https://senseis.xmp.net/)
