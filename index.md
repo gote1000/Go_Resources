@@ -1,6 +1,6 @@
 *I like go and maybe you do too*
 
-Huge thank you to [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in/posts/weiqi-resources/) as the inspiration for this page.
+This page merely contains some of my favorite links related to go. Huge thank you to [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in/posts/weiqi-resources/) for the inspiration.
 
 ## Learn to play game
 
@@ -18,8 +18,9 @@ Huge thank you to [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in
 
 ### Practice Problems / Tsumego
 
-- **Web: [Black to Play](https://blacktoplay.com/)**
-- Book series: [Graded Go Problems by Kiseido](https://www.biblio.com/book/graded-go-problems-beginners-introductory-problems/d/1518181143)
+- **Web: [Black to Play](https://blacktoplay.com/)** - *DDK friendly. Life and death problems in a phenominal, free web interface.*
+- Book series: Graded Go Problems by Kiseido [30-25 kyu](https://www.biblio.com/9784906574469)
+- Book series: Get Strong at [Attacking](https://www.biblio.com/9784906574605) / [Tesuji](https://www.biblio.com/9784906574568) and Mastering the Basics [501 Opening Problems](https://kiseidopublishing.com/master.htm#K71) / [Attacking and Defending Weak Groups ](https://biblio.com/4906574882)- *Dedicated kyu problems set to a particular topic outside of life and death*
 
 ## Play the game
 
@@ -41,7 +42,7 @@ Huge thank you to [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in
 
 - **Social: [Gote on Mastadon](https://social.seattle.wa.us/home)**
 - **Magazine: [Go World Magazine back issues 1977-2012](https://kiseidodigital.gumroad.com/l/gwa) - *If you have a budget for written go material, this is the best bang for your buck as a DDK looking for immersion***
-- Book: [The Treasure Chest Enigma by Noriyuki Nakayama](https://senseis.xmp.net/?TheTreasureChestEnigma) - *A small, but wonderful collection of essays. Feels like "behind the scenes" from pro players*
+- Book: [The Treasure Chest Enigma by Noriyuki Nakayama](https://senseis.xmp.net/?TheTreasureChestEnigma) - *A small, but wonderful collection of essays. Feels like "behind the scenes" from pro players.*
 - Magazine: [Finding Seki 2024-](https://www.etsy.com/shop/FindingSeki)
 
 ### Collections
