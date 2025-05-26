@@ -41,7 +41,7 @@ Huge thank you to [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in
 
 - **Social: [Gote on Mastadon](https://social.seattle.wa.us/home)**
 - **Magazine: [Go World Magazine back issues 1977-2012](https://kiseidodigital.gumroad.com/l/gwa) - *If you have a budget for written go material, this is the best bang for your buck as a DDK looking for immersion***
-- Book: The Treasure Chest Enigma by Noriyuki Nakayama
+- Book: [The Treasure Chest Enigma by Noriyuki Nakayama](https://senseis.xmp.net/?TheTreasureChestEnigma) - *A small, but wonderful collection of essays. Feels like "behind the scenes" from pro players*
 - Magazine: [Finding Seki 2024-](https://www.etsy.com/shop/FindingSeki)
 
 ### Collections
