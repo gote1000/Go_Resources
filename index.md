@@ -32,8 +32,8 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 - **App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918)** - *Great for practicing 9x9*
 - In person: [Baduk.club](https://baduk.club/welcome)
-- Online: [OGS](https://online-go.com/) - *Requires an account. Popular English language server.*
-- Online: [Board from TripleKo](https://board.tripleko.com/) - *No account necessary*
+- Online: [OGS](https://online-go.com/) - *Requires an account. Does not require friends. Popular English language server.*
+- Online: [Board from TripleKo](https://board.tripleko.com/) - *No account necessary. Requires friends.*
 
 ## Periphery about the game
 
