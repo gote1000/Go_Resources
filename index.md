@@ -32,12 +32,10 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ### Beyond DDK
 
-*Note: While I am a DDK myself and would not recommend these books to someone just getting started, I do recommend these books to people who are yerning for something beyond the basics.*
-
-- **Book: [Positional Judgement](https://www.biblio.com/book/positional-judgement-nine-dan-cho-chikun/d/1295610665)** - *Again, I am a high DDK player and am only scratching the surface of this book, but a) You gotta learn how to estimate the score yourself and b) This book is surprizingly apporachable*
+- **Book: [Positional Judgement](https://www.biblio.com/book/positional-judgement-nine-dan-cho-chikun/d/1295610665)** - *I am a high DDK player and am only scratching the surface of this book, but a) You gotta learn how to estimate the score yourself and b) This book is surprizingly apporachable*
 - Book: [The Direction of Play](https://senseis.xmp.net/?TheDirectionOfPlay)
 - Book: [Fuseki Revolution: How AI Has Changed Go](https://www.biblio.com/book/fuseki-revolution-how-ai-has-changed/d/1679236563) - *Pleased to say this book moves along at a healthy pace and only brielfy touches on "the old way" of any particular topic*
-- Book: [Mastering Corner Shapes](https://www.biblio.com/booksearch/keyisbn/9798895876336) - *I can only appreciate "the tip of the iceberg", but this is delicious*
+- Book: [Mastering Corner Shapes](https://www.biblio.com/booksearch/keyisbn/9798895876336)
 
 ## Play the game
 
@@ -52,7 +50,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 - **Podcast: [All Things Go](https://allthingsgogame.alitu.com/)** - *"Season" structure. Many great interviews.*
 - Podcast: [Star Point](https://starpointbaduk.com/) - *Weekly*
-- Youtube video series: [Dan and the Kyu](https://www.youtube.com/@DanandtheKyu) - *You'll definately want to be able to see the video stream from large portions of many episodes. Really hits its stride ~episode 3.*
+- Youtube video series: [Dan and the Kyu](https://www.youtube.com/@DanandtheKyu) - *You'll want to be able to see the video stream for large portions of many episodes. Really hits its stride ~episode 3.*
 - Video lecture: [Kajiwara Takeo: The Giant Who Made Titans by Matthew McKee of Go Magic](https://gomagic.org/courses/kajiwara-takeo/) - *Inspiring at any level*
 
 ### Words
