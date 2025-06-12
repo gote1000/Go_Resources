@@ -10,7 +10,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - Book: [Go: A Complete Introduction to the Game by Chikun Cho](https://www.biblio.com/9784906574506)
 - Video: [Learn To Play Go! A Guide for Beginners by In Sente](https://www.youtube.com/watch?v=xMshtO8h7RU)
 - App: [Beginner's Go by Unbalance Corporation](http://itunes.apple.com/us/app/id381699789?mt=8) - *A vintage app*
-- Kids book: [Level Up Book 1](https://senseis.xmp.net/?LevelUp)
+- Kids book: [Level Up Book 1](https://www.bengozen.com/2013/07/03/book-review-level-up-1.html)
 
 ### The next step / DDK Level
 
