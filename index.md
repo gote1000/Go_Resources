@@ -9,12 +9,13 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - **Web: [learn-go.net](https://www.learn-go.net/)**
 - Book: [Go: A Complete Introduction to the Game by Chikun Cho](https://www.biblio.com/9784906574506)
 - Video: [Learn To Play Go! A Guide for Beginners by In Sente](https://www.youtube.com/watch?v=xMshtO8h7RU)
-- App: [Beginner's Go by Unbalance Corporation](http://itunes.apple.com/us/app/id381699789?mt=8) - *In 2025, this app feels like finding [a book published in 1934](https://senseis.xmp.net/?GoAndGoMoku)*
+- App: [Beginner's Go by Unbalance Corporation](http://itunes.apple.com/us/app/id381699789?mt=8) - *A vintage app*
+- Kids book: [Level Up Book 1](https://senseis.xmp.net/?LevelUp)
 
 ### The next step / DDK Level
 
 - **Book series: [Learn to Play Go by Janice Kim](https://www.biblio.com/9781453632895)**
-- **Book: [Opening Theory Made Easy](https://www.biblio.com/9784906574360)** - *So much more than the opening. I would describe this book as the DDK version of "Kageyama's Lessons in the Fundamentals of Go".*
+- **Book: [Opening Theory Made Easy](https://www.biblio.com/9784906574360)**
 - Book: [Life and Death](https://www.biblio.com/9784906574131) - *Meat and potatoes, foundational stuff. Learn this before memorizing joseki.*
 - Video: [The Fundamentals of Go on 13×13 by Vadim Efimenko of Go Magic](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
 
