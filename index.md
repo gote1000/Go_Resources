@@ -63,6 +63,8 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ### Collections
 
+- List: [](https://docs.google.com/document/d/1AJKGbLuyCwqqAa34BtRodT6pJrXp0y8rbxUQJLqhvC0/mobilebasic)
 - List: [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in/posts/weiqi-resources/)
 - List: [OGS Other Go Resources](https://online-go.com/docs/other-go-resources)
+- Video catalog: [Baduktube](https://baduktube.soumyak4.in/)
 - Wiki: [Sensei's Library](https://senseis.xmp.net/)
