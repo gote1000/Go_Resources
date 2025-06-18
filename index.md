@@ -22,6 +22,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 ### Practice Problems / Tsumego
 
 - **Web: [Black to Play](https://blacktoplay.com/)** - *DDK friendly. Life and death problems in a phenominal, free web interface.*
+- Web: [antonTobi's Count! game](https://count.antontobi.com/) - *Great pratice for evaluating the board and counting score*
 - Book series: Graded Go Problems by Kiseido [30-25 kyu](https://www.biblio.com/9784906574469)
 - Book series: Get Strong at ... - *Dedicated kyu problems set to a particular topic outside of life and death*
     - **[Attacking](https://www.biblio.com/9784906574605)** - *This book brought me instant improvements to my game*
