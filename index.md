@@ -60,6 +60,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - **Magazine: [Go World Magazine back issues 1977-2012](https://kiseidodigital.gumroad.com/l/gwa) - *If you have a budget for written go material, this is the best bang for your buck as a DDK looking for immersion***
 - Social: [Gote on Mastadon](https://social.seattle.wa.us/home) - *It's me*
 - Book: [The Treasure Chest Enigma by Noriyuki Nakayama](https://senseis.xmp.net/?TheTreasureChestEnigma) - *A small, but wonderful collection of essays. Feels like "behind the scenes" from pro players.*
+- Book: [Go Nation: Chinese Masculinities and the Game of Weiqi in China](https://www.biblio.com/9780520276321)
 - Magazine: [Finding Seki 2024-](https://www.etsy.com/shop/FindingSeki)
 
 ### Collections
