@@ -15,9 +15,9 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ### The next step / DDK Level
 
-- **Book series: [Learn to Play Go by Janice Kim](https://www.biblio.com/9781453632895)**
+- **Book: [Life and Death](https://www.biblio.com/9784906574131)** - *Meat and potatoes, foundational stuff. Learn this before memorizing joseki.*
 - **Book: [Opening Theory Made Easy](https://www.biblio.com/9784906574360)**
-- Book: [Life and Death](https://www.biblio.com/9784906574131) - *Meat and potatoes, foundational stuff. Learn this before memorizing joseki.*
+- Book series: [Learn to Play Go by Janice Kim](https://www.biblio.com/9781453632895)
 - Video: [The Fundamentals of Go on 13×13 by Vadim Efimenko of Go Magic](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
 
 ### Practice Problems / Tsumego
