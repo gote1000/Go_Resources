@@ -7,7 +7,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 ### Introduction
 
 - **Web: [learn-go.net](https://www.learn-go.net/)**
-- **Book [Learn Go by Neil Moffat]** - *A pragmatic introduction from a Westerner's perspective. I appreciate how this game explicitly downplays "capturing". Each diagram only shows one move (rather than a numbered sequence) which is particularly approachable.*
+- **Book [Learn Go by Neil Moffat](https://www.learngo.co.uk/Books.php?Book=1)** - *A pragmatic introduction from a Westerner's perspective. I appreciate how this game explicitly downplays "capturing". Each diagram only shows one move (rather than a numbered sequence) which is particularly approachable.*
 - Book: [Go: A Complete Introduction to the Game by Chikun Cho](https://www.biblio.com/9784906574506) -  *Each chapter alternates between a historical/cultural aspect and a key concept of gameplay*
 - Video: [Learn To Play Go! A Guide for Beginners by In Sente](https://www.youtube.com/watch?v=xMshtO8h7RU)
 - App: [Beginner's Go by Unbalance Corporation](http://itunes.apple.com/us/app/id381699789?mt=8) - *A vintage app*
