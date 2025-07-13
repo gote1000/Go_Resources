@@ -7,7 +7,8 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 ### Introduction
 
 - **Web: [learn-go.net](https://www.learn-go.net/)**
-- Book: [Go: A Complete Introduction to the Game by Chikun Cho](https://www.biblio.com/9784906574506)
+- **Book [Learn Go by Neil Moffat]** - *A pragmatic introduction from a Westerner's perspective. I appreciate how this game explicitly downplays "capturing". Each diagram only shows one move (rather than a numbered sequence) which is particularly approachable.*
+- Book: [Go: A Complete Introduction to the Game by Chikun Cho](https://www.biblio.com/9784906574506) -  *Each chapter alternates between a historical/cultural aspect and a key concept of gameplay*
 - Video: [Learn To Play Go! A Guide for Beginners by In Sente](https://www.youtube.com/watch?v=xMshtO8h7RU)
 - App: [Beginner's Go by Unbalance Corporation](http://itunes.apple.com/us/app/id381699789?mt=8) - *A vintage app*
 - Kids book: [Level Up Book 1](https://www.bengozen.com/2013/07/03/book-review-level-up-1.html)
@@ -21,8 +22,8 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ### Practice Problems / Tsumego
 
-- **Web: [Black to Play](https://blacktoplay.com/)** - *DDK friendly. Life and death problems in a phenominal, free web interface.*
-- Web: [antonTobi's Count! game](https://count.antontobi.com/) - *Great pratice for evaluating the board and counting score*
+- **Web: [Black to Play](https://blacktoplay.com/)** - *DDK friendly. Life and death problems in a phenomenal, free web interface.*
+- Web: [antonTobi's Count! game](https://count.antontobi.com/) - *Great practice for evaluating the board and counting score*
 - Book series: Graded Go Problems by Kiseido [30-25 kyu](https://www.biblio.com/9784906574469)
 - Book series: Get Strong at ... - *Dedicated kyu problems set to a particular topic outside of life and death*
     - **[Attacking](https://www.biblio.com/9784906574605)** - *This book brought me instant improvements to my game*
@@ -34,9 +35,9 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ### Beyond DDK
 
-- **Book: [Positional Judgement](https://www.biblio.com/book/positional-judgement-nine-dan-cho-chikun/d/1295610665)** - *I am a high DDK player and am only scratching the surface of this book, but a) You gotta learn how to estimate the score yourself and b) This book is surprizingly apporachable*
+- **Book: [Positional Judgement](https://www.biblio.com/book/positional-judgement-nine-dan-cho-chikun/d/1295610665)** - *I am a high DDK player and am only scratching the surface of this book, but a) You gotta learn how to estimate the score yourself and b) This book is surprisingly approachable*
 - Book: [The Direction of Play](https://senseis.xmp.net/?TheDirectionOfPlay)
-- Book: [Fuseki Revolution: How AI Has Changed Go](https://www.biblio.com/book/fuseki-revolution-how-ai-has-changed/d/1679236563) - *Pleased to say this book moves along at a healthy pace and only brielfy touches on "the old way" of any particular topic*
+- Book: [Fuseki Revolution: How AI Has Changed Go](https://www.biblio.com/book/fuseki-revolution-how-ai-has-changed/d/1679236563) - *Pleased to say this book moves along at a healthy pace and only briefly touches on "the old way" of any particular topic*
 - Book: [Mastering Corner Shapes](https://www.biblio.com/booksearch/keyisbn/9798895876336)
 
 ## Play the game
@@ -58,7 +59,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 ### Words
 
 - **Magazine: [Go World Magazine back issues 1977-2012](https://kiseidodigital.gumroad.com/l/gwa) - *If you have a budget for written go material, this is the best bang for your buck as a DDK looking for immersion***
-- Social: [Gote on Mastadon](https://social.seattle.wa.us/home) - *It's me*
+- Social: [Gote on Mastodon](https://social.seattle.wa.us/home) - *It's me*
 - Book: [The Treasure Chest Enigma by Noriyuki Nakayama](https://senseis.xmp.net/?TheTreasureChestEnigma) - *A small, but wonderful collection of essays. Feels like "behind the scenes" from pro players.*
 - Book: [Go Nation: Chinese Masculinities and the Game of Weiqi in China](https://www.biblio.com/9780520276321)
 - Magazine: [Finding Seki 2024-](https://www.etsy.com/shop/FindingSeki)
