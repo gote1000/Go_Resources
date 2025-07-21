@@ -11,20 +11,18 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - Book: [Go: A Complete Introduction to the Game by Chikun Cho](https://www.biblio.com/9784906574506) -  *Each chapter alternates between a historical/cultural aspect and a key concept of gameplay*
 - Video: [Learn To Play Go! A Guide for Beginners by In Sente](https://www.youtube.com/watch?v=xMshtO8h7RU)
 - App: [Beginner's Go by Unbalance Corporation](http://itunes.apple.com/us/app/id381699789?mt=8) - *A vintage app*
-- Kids book: [Level Up Book 1](https://www.bengozen.com/2013/07/03/book-review-level-up-1.html)
 
 ### The next step / DDK Level
 
 - **Book: [Life and Death](https://www.biblio.com/9784906574131)** - *Meat and potatoes, foundational stuff. Learn this before memorizing joseki.*
 - **Book: [Opening Theory Made Easy](https://www.biblio.com/9784906574360)**
-- Book series: [Learn to Play Go by Janice Kim](https://www.biblio.com/9781453632895)
+- Book: [Go by Example by Niel Moffatt](https://www.amazon.com/Go-by-Example/dp/1453851259/) - *Unpolished and conversational in style. Examples are wide-ranging and no more than a page or two.*
 - Video: [The Fundamentals of Go on 13×13 by Vadim Efimenko of Go Magic](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
 
 ### Practice Problems / Tsumego
 
 - **Web: [Black to Play](https://blacktoplay.com/)** - *DDK friendly. Life and death problems in a phenomenal, free web interface.*
 - Web: [antonTobi's Count! game](https://count.antontobi.com/) - *Great practice for evaluating the board and counting score*
-- Book series: Graded Go Problems by Kiseido [30-25 kyu](https://www.biblio.com/9784906574469)
 - Book series: Get Strong at ... - *Dedicated kyu problems set to a particular topic outside of life and death*
     - **[Attacking](https://www.biblio.com/9784906574605)** - *This book brought me instant improvements to my game*
     - [Tesuji](https://www.biblio.com/9784906574568)
@@ -35,16 +33,16 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ### Beyond DDK
 
-- **Book: [Positional Judgement](https://www.biblio.com/book/positional-judgement-nine-dan-cho-chikun/d/1295610665)** - *I am a high DDK player and am only scratching the surface of this book, but a) You gotta learn how to estimate the score yourself and b) This book is surprisingly approachable*
-- Book: [The Direction of Play](https://senseis.xmp.net/?TheDirectionOfPlay)
+- Book: [The Direction of Play by Kajiwara Takeo](https://senseis.xmp.net/?TheDirectionOfPlay)
+- Book: [Positional Judgement](https://www.biblio.com/book/positional-judgement-nine-dan-cho-chikun/d/1295610665) - *I am a high DDK player and am only scratching the surface of this book, but a) You gotta learn how to estimate the score yourself and b) This book is surprisingly approachable*
 - Book: [Fuseki Revolution: How AI Has Changed Go](https://www.biblio.com/book/fuseki-revolution-how-ai-has-changed/d/1679236563) - *Pleased to say this book moves along at a healthy pace and only briefly touches on "the old way" of any particular topic*
 - Book: [Mastering Corner Shapes](https://www.biblio.com/booksearch/keyisbn/9798895876336)
 
 ## Play the game
 
 - **App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918)** - *Great for practicing 9x9*
+- **Online: [OGS](https://online-go.com/)** - *Requires an account. Does not require friends. Popular English language server.*
 - In person: [Baduk.club](https://baduk.club/welcome)
-- Online: [OGS](https://online-go.com/) - *Requires an account. Does not require friends. Popular English language server.*
 - Online: [Board from TripleKo](https://board.tripleko.com/) - *No accounts. Requires friends.*
 
 ## Periphery about the game
@@ -52,7 +50,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 ### Audio / video
 
 - **Podcast: [All Things Go](https://allthingsgogame.alitu.com/)** - *"Season" structure. Many great interviews.*
-- Podcast: [Star Point](https://starpointbaduk.com/) - *Weekly*
+- Podcast: [Star Point](https://starpointbaduk.com/) - *Weekly for most weeks of the year*
 - Youtube video series: [Dan and the Kyu](https://www.youtube.com/@DanandtheKyu) - *You'll want to be able to see the video stream for large portions of many episodes. Really hits its stride ~episode 3.*
 - Video lecture: [Kajiwara Takeo: The Giant Who Made Titans by Matthew McKee of Go Magic](https://gomagic.org/courses/kajiwara-takeo/) - *Inspiring at any level*
 
