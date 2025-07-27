@@ -10,7 +10,8 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - **Book [Learn Go by Neil Moffat](https://www.learngo.co.uk/Books.php?Book=1)** - *A pragmatic introduction from a Westerner's perspective. I appreciate how the author explicitly downplays "capturing". Each diagram only shows one move (rather than a numbered sequence) which is particularly approachable.*
 - Book: [Go: A Complete Introduction to the Game by Chikun Cho](https://www.biblio.com/9784906574506) -  *Each chapter alternates between a historical/cultural aspect and a key concept of gameplay*
 - Video: [Learn To Play Go! A Guide for Beginners by In Sente](https://www.youtube.com/watch?v=xMshtO8h7RU)
-- App: [Beginner's Go by Unbalance Corporation](http://itunes.apple.com/us/app/id381699789?mt=8) - *A vintage app*
+- App: [Beginner's Go by Unbalance Corporation](http://itunes.apple.com/us/app/id381699789?mt=8) - *A vintage app for iOS*
+- App for kids: Legend of Baduk [iOS](https://apps.apple.com/us/app/legend-of-baduk/id6502744705) / [Android](https://play.google.com/store/apps/details?id=kr.or.baduk.lob&hl=en_US&pli=1) - *Modern with a tasteful amount of features provided for free*
 
 ### The next step / DDK Level
 
@@ -34,15 +35,19 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 ### Beyond DDK
 
 - Book: [The Direction of Play by Kajiwara Takeo](https://senseis.xmp.net/?TheDirectionOfPlay)
+- Book: [Tesuji by James Davies](https://www.biblio.com/9784906574124) - *If you have a grasp of the rules, any of these examples will blow your mind*
 - Book: [Positional Judgement](https://www.biblio.com/book/positional-judgement-nine-dan-cho-chikun/d/1295610665) - *I am a high DDK player and am only scratching the surface of this book, but a) You gotta learn how to estimate the score yourself and b) This book is surprisingly approachable*
 - Book: [Fuseki Revolution: How AI Has Changed Go](https://www.biblio.com/book/fuseki-revolution-how-ai-has-changed/d/1679236563) - *Pleased to say this book moves along at a healthy pace and only briefly touches on "the old way" of any particular topic*
 - Book: [Mastering Corner Shapes](https://www.biblio.com/booksearch/keyisbn/9798895876336)
 
 ## Play the game
 
-- **App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918)** - *Great for practicing 9x9*
-- **Online: [OGS](https://online-go.com/)** - *Requires an account. Does not require friends. Popular English language server.*
-- In person: [Baduk.club](https://baduk.club/welcome)
+- **App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918)** - *Superb for 9x9*
+- **In person:**
+    - Wordwide: [Baduk.club](https://baduk.club/welcome) - *Website clearly lists the last time an entry was edited / verified*
+    - United States: [AGA club finder](https://usgo.org/content.aspx?page_id=225)
+    - Canada: [CGA clubs](https://leago.gg/cga/clubs)
+- Online: [OGS](https://online-go.com/) - *Requires an account. Does not require friends. Popular English language server.*
 - Online: [Board from TripleKo](https://board.tripleko.com/) - *No accounts. Requires friends.*
 
 ## Periphery about the game
@@ -50,7 +55,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 ### Audio / video
 
 - **Podcast: [All Things Go](https://allthingsgogame.alitu.com/)** - *"Season" structure. Many great interviews.*
-- Podcast: [Star Point](https://starpointbaduk.com/) - *Weekly for most weeks of the year*
+- Podcast: [Star Point](https://starpointbaduk.com/) - *Serialized weekly with large back catalog*
 - Youtube video series: [Dan and the Kyu](https://www.youtube.com/@DanandtheKyu) - *You'll want to be able to see the video stream for large portions of many episodes. Really hits its stride ~episode 3.*
 - Video lecture: [Kajiwara Takeo: The Giant Who Made Titans by Matthew McKee of Go Magic](https://gomagic.org/courses/kajiwara-takeo/) - *Inspiring at any level*
 
