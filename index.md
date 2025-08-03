@@ -42,7 +42,8 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ## Play the game
 
-- **App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918)** - *Superb for 9x9*
+- **Web: [Puyogo](https://puyogo.app/en/)**
+- App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918) - *Superb for 9x9*
 - **In person:**
     - Wordwide: [Baduk.club](https://baduk.club/welcome) - *Website clearly lists the last time an entry was edited / verified*
     - United States: [AGA club finder](https://usgo.org/content.aspx?page_id=225)
@@ -69,7 +70,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ### Collections
 
-- **List [Seattle Central Go Club's Beginner Resources](https://sites.google.com/view/soyouaskedaboutmyfavoritegame/beginner-resources)**
+- **List: [Seattle Central Go Club's Beginner Resources](https://sites.google.com/view/soyouaskedaboutmyfavoritegame/beginner-resources)**
 - List: [Pseudo's: Learning Go Resources](https://docs.google.com/document/d/1AJKGbLuyCwqqAa34BtRodT6pJrXp0y8rbxUQJLqhvC0/mobilebasic)
 - List: [Xióngwěi Wong's online resources](https://weiqi.soumyak4.in/posts/weiqi-resources/)
 - List: [OGS Other Go Resources](https://online-go.com/docs/other-go-resources)
