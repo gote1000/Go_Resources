@@ -42,7 +42,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ## Play the game
 
-- **Web: [Puyogo](https://puyogo.app/en/)**
+- **Web for beginners: [Puyogo](https://puyogo.app/en/)** - *Lovely interface, simplifed rules*
 - App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918) - *Superb for 9x9*
 - **In person:**
     - Wordwide: [Baduk.club](https://baduk.club/welcome) - *Website clearly lists the last time an entry was edited / verified*
