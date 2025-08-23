@@ -18,6 +18,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - **Book: [Life and Death](https://www.biblio.com/9784906574131)** - *Meat and potatoes, foundational stuff. Learn this before memorizing joseki.*
 - **Book: [Opening Theory Made Easy](https://www.biblio.com/9784906574360)**
 - Book: [Go by Example by Niel Moffatt](https://www.amazon.com/Go-by-Example/dp/1453851259/) - *Unpolished and conversational in style. Examples are wide-ranging and no more than a page or two.*
+- **Video: [Triton DDK to SDK Basics](https://www.youtube.com/playlist?list=PLWYy6k8S3dSkxBl7E8DKCvr_CA6jxCNMh)** - *There's no shortage of YouTubers claiming to "just play basics". Triton is one of the few who manages to stick to the landing.*
 - Video: [The Fundamentals of Go on 13×13 by Vadim Efimenko of Go Magic](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
 
 ### Practice Problems / Tsumego
@@ -36,13 +37,13 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 - Book: [The Direction of Play by Kajiwara Takeo](https://senseis.xmp.net/?TheDirectionOfPlay)
 - Book: [Tesuji by James Davies](https://www.biblio.com/9784906574124) - *If you have a grasp of the rules, any of these examples will blow your mind*
-- Book: [Positional Judgement](https://www.biblio.com/book/positional-judgement-nine-dan-cho-chikun/d/1295610665) - *I am a high DDK player and am only scratching the surface of this book, but a) You gotta learn how to estimate the score yourself and b) This book is surprisingly approachable*
 - Book: [Fuseki Revolution: How AI Has Changed Go](https://www.biblio.com/book/fuseki-revolution-how-ai-has-changed/d/1679236563) - *Pleased to say this book moves along at a healthy pace and only briefly touches on "the old way" of any particular topic*
 - Book: [Mastering Corner Shapes](https://www.biblio.com/booksearch/keyisbn/9798895876336)
+- School: [International Osaka Go School](https://osakago.jp/)
 
 ## Play the game
 
-- **Web for beginners: [Puyogo](https://puyogo.app/en/)** - *Lovely interface, simplifed rules*
+- **Web for beginners: [Squishy Go](https://puyogo.app/en/)** - *Lovely interface, simplifed rules*
 - App: [Go Quest](https://apps.apple.com/us/app/goquest/id834841918) - *Superb for 9x9*
 - **In person:**
     - Wordwide: [Baduk.club](https://baduk.club/welcome) - *Website clearly lists the last time an entry was edited / verified*
