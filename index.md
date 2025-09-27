@@ -23,7 +23,8 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ### Practice Problems / Tsumego
 
-- **Web: [Black to Play](https://blacktoplay.com/)** - *DDK friendly. Life and death problems in a phenomenal, free web interface.*
+- Web: Tsumego Hero [Easy Life](https://tsumego-hero.com/sets/view/104)
+- Book: Let's Study Go by Cho Seok-Bin
 - Web: [antonTobi's Count! game](https://count.antontobi.com/) - *Great practice for evaluating the board and counting score*
 - Book series: Get Strong at ... - *Dedicated kyu problems set to a particular topic outside of life and death*
     - **[Attacking](https://www.biblio.com/9784906574605)** - *This book brought me instant improvements to my game*
