@@ -18,6 +18,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - **Book: [Life and Death](https://www.biblio.com/9784906574131)** - *Meat and potatoes, foundational stuff. Learn this before memorizing joseki.*
 - **Book: [Opening Theory Made Easy](https://www.biblio.com/9784906574360)**
 - Book: [Go by Example by Niel Moffatt](https://www.amazon.com/Go-by-Example/dp/1453851259/) - *Unpolished and conversational in style. Examples are wide-ranging and no more than a page or two.*
+- Video catalog: [NAOL Game Reviews](https://usgo.org/content.aspx?page_id=2507&club_id=454497&item_id=5019) - *17+ tournaments worth of real game reviews at a wide range of levels. Similiarly unpolished, but a treasure-trove.* 
 - **Video: [Triton DDK to SDK Basics](https://www.youtube.com/playlist?list=PLWYy6k8S3dSkxBl7E8DKCvr_CA6jxCNMh)** - *There's no shortage of YouTubers claiming to "just play basics". Triton is one of the few who manages to stick to the landing.*
 - Video: [The Fundamentals of Go on 13×13 by Vadim Efimenko of Go Magic](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
 
