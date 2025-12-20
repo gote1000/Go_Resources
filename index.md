@@ -75,7 +75,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 - Akita Noek: Cofounded [Online-go.com](https://online-go.com/)
 - Anders Kierulf
-    - Creater of the [SmartGo app](https://smartgo.com/) and [Go Books](https://gobooks.com/)
+    - Creator of the [SmartGo app](https://smartgo.com/) and [Go Books](https://gobooks.com/)
     - Social: [SmartGo on Mastodon.social](https://mastodon.social/@smartgo)
 - Cho Yeonwoo
     - YouTube Channel: [Go Pro Yeonwoo](https://www.youtube.com/@goproyeonwoo)
