@@ -73,14 +73,14 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ### Modern figures
 
-- Akita Noek: Cofounded of [Online-go.com]
+- Akita Noek: Cofounded <Online-go.com>
 - Anders Kierulf
     - Creater of the [SmartGo app](https://smartgo.com/) and [Go Books](https://gobooks.com/)
     - Social: [SmartGo on Mastodon.social](https://mastodon.social/@smartgo)
 - Cho Yeonwoo
     - YouTube Channel: [Go Pro Yeonwoo](https://www.youtube.com/@goproyeonwoo)
     - School: [Awesome Baduk](https://awesomebaduk.com/)
-- Devin Fraze: Founder of [baduk.club]
+- Devin Fraze: Founded of <baduk.club>
 - Dwyrin:
     - YouTube Channel: [dwyrin](https://www.youtube.com/dwyrin)
     - Patreon / lessons: [dywrin](https://www.patreon.com/cw/dwyrin)
