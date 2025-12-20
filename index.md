@@ -95,6 +95,10 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - YouTube Channel: [Michale Redmond's Go TV](https://www.youtube.com/channel/UCRJyagla1B5cxIfR4i2LdgA)
     - Cowrote book with Chris Garlock: [AlphaGo to Zero](https://gobooks.com/books-by-series.html#alpha-go-to-zero)
 - Richard Bozulich: Cofounded Publishing Company: [Ishi Press](https://senseis.xmp.net/?IshiPress) which published many of the  James Davies books along with books written by Richard himself
+- Shawn Ray aka Clossius
+    - YouTube Channel: [ShawnRay](https://www.youtube.com/@ShawnRay)
+    - Founder of [Tsumego Dragon](https://tsumegodragon.com/)
+    - Founder of [The Clossi Approach](https://shawnsgogroup.com/clossi_approach)
 - Young Sun Yoon
     - YouTube Channel: [Yoon's Baduk Cafe](https://www.youtube.com/@YoonsBadukCafe)
     - School: [Awesome Baduk](https://awesomebaduk.com/)
