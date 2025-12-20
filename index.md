@@ -71,6 +71,36 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - Book: [Go Nation: Chinese Masculinities and the Game of Weiqi in China](https://www.biblio.com/9780520276321)
 - Magazine: [Finding Seki 2024-](https://www.etsy.com/shop/FindingSeki)
 
+### Modern figures
+
+- Akita Noek: Cofounded of [Online-go.com]
+- Anders Kierulf
+    - Creater of the [SmartGo app](https://smartgo.com/) and [Go Books](https://gobooks.com/)
+    - Social: [SmartGo on Mastodon.social](https://mastodon.social/@smartgo)
+- Cho Yeonwoo
+    - YouTube Channel: [Go Pro Yeonwoo](https://www.youtube.com/@goproyeonwoo)
+    - School: [Awesome Baduk](https://awesomebaduk.com/)
+- Devin Fraze: Founder of [baduk.club]
+- Dwyrin:
+    - YouTube Channel: [dwyrin](https://www.youtube.com/dwyrin)
+    - Patreon / lessons: [dywrin](https://www.patreon.com/cw/dwyrin)
+- Eunkyo Do
+    - YouTube Channel: [Go Inside](https://www.youtube.com/@eunkyodo)
+    - Book: [Mastering Invasions](https://www.amazon.com/dp/B0G8J18DPB)
+- John Power
+    - Founded Publishing Company: [Kiseido]https://www.kiseido.com/); now owned by Richard Bozulich
+    - Book: [Invincible - the games of Shusaku](https://www.biblio.com/book/invincible-games-shusaku-john-power/d/1303090502)
+    - Book: [Essential Go Proverbs](https://www.amazon.com/Essential-Go-Proverbs-John-Power/dp/4906574203)
+- Michael Redmond: First Western Go Professional to reach 9 dan
+    - YouTube Channel: [Michale Redmond's Go TV](https://www.youtube.com/channel/UCRJyagla1B5cxIfR4i2LdgA)
+    - Cowrote book with Chris Garlock: [AlphaGo to Zero](https://gobooks.com/books-by-series.html#alpha-go-to-zero)
+- Richard Bozulich
+    - Cofounded Publishing Company: [Ishi Press](https://senseis.xmp.net/?IshiPress) which published many of the  James Davies books along with books written by Richard himself
+- Young Sun Yoon
+    - YouTube Channel: [Yoon's Baduk Cafe](https://www.youtube.com/@YoonsBadukCafe)
+    - School: [Awesome Baduk](https://awesomebaduk.com/)
+    - Book: [Mastering basic corner shapes](https://www.amazon.com/dp/B0DPCWRQGS)
+
 ### Collections
 
 - **List: [Seattle Central Go Club's Beginner Resources](https://sites.google.com/view/soyouaskedaboutmyfavoritegame/beginner-resources)**
