@@ -88,14 +88,13 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - YouTube Channel: [Go Inside](https://www.youtube.com/@eunkyodo)
     - Book: [Mastering Invasions](https://www.amazon.com/dp/B0G8J18DPB)
 - John Power
-    - Founded Publishing Company: [Kiseido]https://www.kiseido.com/); now owned by Richard Bozulich
+    - Founded Publishing Company: [Kiseido](https://www.kiseido.com/); now owned by Richard Bozulich
     - Book: [Invincible - the games of Shusaku](https://www.biblio.com/book/invincible-games-shusaku-john-power/d/1303090502)
     - Book: [Essential Go Proverbs](https://www.amazon.com/Essential-Go-Proverbs-John-Power/dp/4906574203)
 - Michael Redmond: First Western Go Professional to reach 9 dan
     - YouTube Channel: [Michale Redmond's Go TV](https://www.youtube.com/channel/UCRJyagla1B5cxIfR4i2LdgA)
     - Cowrote book with Chris Garlock: [AlphaGo to Zero](https://gobooks.com/books-by-series.html#alpha-go-to-zero)
-- Richard Bozulich
-    - Cofounded Publishing Company: [Ishi Press](https://senseis.xmp.net/?IshiPress) which published many of the  James Davies books along with books written by Richard himself
+- Richard Bozulich: Cofounded Publishing Company: [Ishi Press](https://senseis.xmp.net/?IshiPress) which published many of the  James Davies books along with books written by Richard himself
 - Young Sun Yoon
     - YouTube Channel: [Yoon's Baduk Cafe](https://www.youtube.com/@YoonsBadukCafe)
     - School: [Awesome Baduk](https://awesomebaduk.com/)
