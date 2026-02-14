@@ -18,8 +18,6 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - **Book: [Life and Death](https://www.biblio.com/9784906574131)** - *Meat and potatoes, foundational stuff. Learn this before memorizing joseki.*
 - **Book: [Opening Theory Made Easy](https://www.biblio.com/9784906574360)**
 - Book: [Go by Example by Niel Moffatt](https://www.amazon.com/Go-by-Example/dp/1453851259/) - *Unpolished and conversational in style. Examples are wide-ranging and no more than a page or two.*
-- Book catalog: [101books](https://101books.github.io) - *Humble, but mighty collection of problem sets presented as PDFs*
-    - [Seedling Project](https://101books.github.io/pdfs/seedling-project.pdf) - *Fun, non-life-and-death problem set. The theme is "make the most out of a sacrafice of stones".*
 - Video catalog: [NAOL Game Reviews](https://usgo.org/content.aspx?page_id=2507&club_id=454497&item_id=5019) - *17+ tournaments worth of real game reviews at a wide range of levels. Similiarly unpolished, but a treasure-trove.* 
 - **Video: [Triton DDK to SDK Basics](https://www.youtube.com/playlist?list=PLWYy6k8S3dSkxBl7E8DKCvr_CA6jxCNMh)** - *There's no shortage of YouTubers claiming to "just play basics". Triton is one of the few who manages to stick to the landing.*
 - Video: [The Fundamentals of Go on 13×13 by Vadim Efimenko of Go Magic](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
@@ -29,6 +27,8 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - Web: Tsumego Hero [Easy Life](https://tsumego-hero.com/sets/view/104)
 - Book: Let's Study Go by Cho Seok-Bin
 - Web: [antonTobi's Count! game](https://count.antontobi.com/) - *Great practice for evaluating the board and counting score*
+- PDF catalog: [101books](https://101books.github.io) - *Humble, but mighty collection of problem sets presented as PDFs*
+    - [Seedling Project](https://101books.github.io/pdfs/seedling-project.pdf) - *Fun, non-life-and-death problem set. The theme is "make the most out of a sacrafice of stones".*
 - Book series: Get Strong at ... - *Dedicated kyu problems set to a particular topic outside of life and death*
     - **[Attacking](https://www.biblio.com/9784906574605)** - *This book brought me instant improvements to my game*
     - [Tesuji](https://www.biblio.com/9784906574568)
