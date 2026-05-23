@@ -29,6 +29,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - Web: [antonTobi's Count! game](https://count.antontobi.com/) - *Great practice for evaluating the board and counting score*
 - PDF catalog: [101books](https://101books.github.io) - *Humble, but mighty collection of problem sets presented as PDFs*
     - [Seedling Project](https://101books.github.io/pdfs/seedling-project.pdf) - *Fun, non-life-and-death problem set. The theme is "make the most out of a sacrafice of stones".*
+    - [CrossPoint ePub versions](https://marinahane.github.io/101ebooks/) - *PDFs have been converted for phones and e-readers*
 - Book series: Get Strong at ... - *Dedicated kyu problems set to a particular topic outside of life and death*
     - **[Attacking](https://www.biblio.com/9784906574605)** - *This book brought me instant improvements to my game*
     - [Tesuji](https://www.biblio.com/9784906574568)
