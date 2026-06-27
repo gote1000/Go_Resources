@@ -15,7 +15,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 ### The next step / DDK Level
 
-- **Book: [Life and Death](https://www.biblio.com/9784906574131)** - *Meat and potatoes, foundational stuff. Learn this before memorizing joseki.*
+- **Book: [Life and Death](https://www.biblio.com/9784906574131)** - *Meat and potatoes, foundational stuff. Learn this before memorizing joseki. Heck, skip anything that mentions kos and just focus on looking for direclty making eyes.*
 - **Book: [Opening Theory Made Easy](https://www.biblio.com/9784906574360)**
 - Book: [Go by Example by Niel Moffatt](https://www.amazon.com/Go-by-Example/dp/1453851259/) - *Unpolished and conversational in style. Examples are wide-ranging and no more than a page or two.*
 - Video catalog: [NAOL Game Reviews](https://usgo.org/content.aspx?page_id=2507&club_id=454497&item_id=5019) - *17+ tournaments worth of real game reviews at a wide range of levels. Similiarly unpolished, but a treasure-trove.* 
