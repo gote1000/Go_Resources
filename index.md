@@ -56,6 +56,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - Canada: [CGA clubs](https://leago.gg/cga/clubs)
 - Online: [OGS](https://online-go.com/) - *Requires an account. Does not require friends. Popular English language server.*
 - Online: [Board from TripleKo](https://board.tripleko.com/) - *No accounts. Requires friends.*
+- Tangential: [Random opening generator](https://random-go.antontobi.com/) - *Creates "randkm" positions that AI deems as even (or appropriately handicapped).*
 
 ## Periphery about the game
 
