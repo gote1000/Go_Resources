@@ -37,7 +37,6 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - [Making Good Shape](https://www.biblio.com/9784906574735)
     - [501 Opening Problems](https://kiseidopublishing.com/master.htm#K71)
     - [Attacking and Defending Weak Groups ](https://biblio.com/4906574882)
-- Online: [Random opening generator](https://random-go.antontobi.com/) - *Creates "random" positions that AI deems as even (or appropriately handicapped) to force you to think about unusual board positions. I find this particularly fun when playing against those who are significantly stronger than me.*
 
 ### Beyond DDK
 
@@ -46,6 +45,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - Book: [Fuseki Revolution: How AI Has Changed Go](https://www.biblio.com/book/fuseki-revolution-how-ai-has-changed/d/1679236563) - *Pleased to say this book moves along at a healthy pace and only briefly touches on "the old way" of any particular topic*
 - Book: [Mastering Corner Shapes](https://www.biblio.com/booksearch/keyisbn/9798895876336)
 - School: [International Osaka Go School](https://osakago.jp/)
+- Web: [Random opening generator](https://random-go.antontobi.com/) - *Creates "random" positions that AI deems as even (or appropriately handicapped) to force you to think about unusual board positions. I find this particularly fun when playing against those who are significantly stronger than me.*
 
 ## Play the game
 
