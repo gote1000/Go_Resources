@@ -37,6 +37,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - [Making Good Shape](https://www.biblio.com/9784906574735)
     - [501 Opening Problems](https://kiseidopublishing.com/master.htm#K71)
     - [Attacking and Defending Weak Groups ](https://biblio.com/4906574882)
+- Online: [Random opening generator](https://random-go.antontobi.com/) - *Creates "random" positions that AI deems as even (or appropriately handicapped) to force you to think about unusual board positions. I find this particularly fun when playing against those who are significantly stronger than me.*
 
 ### Beyond DDK
 
@@ -56,7 +57,6 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - Canada: [CGA clubs](https://leago.gg/cga/clubs)
 - Online: [OGS](https://online-go.com/) - *Requires an account. Does not require friends. Popular English language server.*
 - Online: [Board from TripleKo](https://board.tripleko.com/) - *No accounts. Requires friends.*
-- Tangential: [Random opening generator](https://random-go.antontobi.com/) - *Creates "randkm" positions that AI deems as even (or appropriately handicapped).*
 
 ## Periphery about the game
 
