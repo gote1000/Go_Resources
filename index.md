@@ -92,13 +92,12 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - YouTube Channel: [Go Inside](https://www.youtube.com/@eunkyodo)
     - Book: [Mastering Invasions](https://www.amazon.com/dp/B0G8J18DPB)
 - John Power
-    - Founded Publishing Company: [Kiseido](https://www.kiseido.com/); now owned by Richard Bozulich
     - Book: [Invincible - the games of Shusaku](https://www.biblio.com/book/invincible-games-shusaku-john-power/d/1303090502)
     - Book: [Essential Go Proverbs](https://www.amazon.com/Essential-Go-Proverbs-John-Power/dp/4906574203)
 - Michael Redmond: First Western Go Professional to reach 9 dan
     - YouTube Channel: [Michale Redmond's Go TV](https://www.youtube.com/channel/UCRJyagla1B5cxIfR4i2LdgA)
     - Cowrote book with Chris Garlock: [AlphaGo to Zero](https://gobooks.com/books-by-series.html#alpha-go-to-zero)
-- Richard Bozulich: Cofounded Publishing Company: [Ishi Press](https://senseis.xmp.net/?IshiPress) which published many of the  James Davies books along with books written by Richard himself
+- Richard Bozulich: Founded [Kiseido Publishing](https://senseis.xmp.net/?Kiseido) and cofounded [Ishi Press](https://senseis.xmp.net/?IshiPress). Published many of the James Davies books along with books written by Richard himself.
 - Shawn Ray aka Clossius
     - YouTube Channel: [ShawnRay](https://www.youtube.com/@ShawnRay)
     - Founder of [Tsumego Dragon](https://tsumegodragon.com/)
@@ -107,6 +106,18 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - YouTube Channel: [Yoon's Baduk Cafe](https://www.youtube.com/@YoonsBadukCafe)
     - School: [Awesome Baduk](https://awesomebaduk.com/)
     - Book: [Mastering basic corner shapes](https://www.amazon.com/dp/B0DPCWRQGS)
+- List: [North American Go Federation](https://nagofed.org/) Pro Players:
+    1. 2012: Andy Liu
+    2. 2012: Gansheng Shi
+    3. 2013: Calvin Sun
+    4. 2014: Ryan Li
+    5. 2015: Eric Lui
+    6. 2022: Alexander Qi
+    7. 2022: Kevin Yang
+    8. 2023: Michael Chen
+    9. 2024: Bill Lin
+    10. 2025: Guanyu Song
+    11. 2026: Qiyou Wu
 
 ### Collections
 
