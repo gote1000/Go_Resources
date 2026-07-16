@@ -20,7 +20,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 - Book: [Go by Example by Niel Moffatt](https://www.amazon.com/Go-by-Example/dp/1453851259/) - *Unpolished and conversational in style. Examples are wide-ranging and no more than a page or two.*
 - Video catalog: [NAOL Game Reviews](https://usgo.org/content.aspx?page_id=2507&club_id=454497&item_id=5019) - *17+ tournaments worth of real game reviews at a wide range of levels. Similiarly unpolished, but a treasure-trove.* 
 - **Video: [Triton DDK to SDK Basics](https://www.youtube.com/playlist?list=PLWYy6k8S3dSkxBl7E8DKCvr_CA6jxCNMh)** - *There's no shortage of YouTubers claiming to "just play basics". Triton is one of the few who manages to stick to the landing.*
-- Video: [The Fundamentals of Go on 13×13 by Vadim Efimenko of Go Magic](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
+- Paid Video: [The Fundamentals of Go on 13×13 by Vadim Efimenko of Go Magic](https://gomagic.org/courses/the-fundamentals-of-go-on-13x13/)
 
 ### Practice Problems / Tsumego
 
@@ -56,6 +56,7 @@ This page merely contains some of my favorite links related to go. Huge thank yo
     - United States: [AGA club finder](https://usgo.org/content.aspx?page_id=225)
     - Canada: [CGA clubs](https://leago.gg/cga/clubs)
 - Online: [OGS](https://online-go.com/) - *Requires an account. Does not require friends. Popular English language server.*
+    - If you're looking to play against bots / AI, beware... Especially at beginner ranks, a low *quality* bot simply plays nonsense moves resulting in a pretty vapid expeirence. I recommend: [Oroton Koala 30kyu](https://online-go.com/player/1907021/) and [GnuGo 14kyu](https://online-go.com/player/58441/).
 - Online: [Board from TripleKo](https://board.tripleko.com/) - *No accounts. Requires friends.*
 
 ## Periphery about the game
@@ -64,8 +65,8 @@ This page merely contains some of my favorite links related to go. Huge thank yo
 
 - **Podcast: [All Things Go](https://allthingsgogame.alitu.com/)** - *"Season" structure. Many great interviews.*
 - Podcast: [Star Point](https://starpointbaduk.com/) - *Serialized weekly with large back catalog*
-- Youtube video series: [Dan and the Kyu](https://www.youtube.com/@DanandtheKyu) - *You'll want to be able to see the video stream for large portions of many episodes. Really hits its stride ~episode 3.*
-- Video lecture: [Kajiwara Takeo: The Giant Who Made Titans by Matthew McKee of Go Magic](https://gomagic.org/courses/kajiwara-takeo/) - *Inspiring at any level*
+- Youtube video series: [Dan and the Kyu](https://www.youtube.com/@DanandtheKyu) - *You'll want to be able to see the video stream for large portions of many episodes.*
+- Paid Video lecture: [Kajiwara Takeo: The Giant Who Made Titans by Matthew McKee of Go Magic](https://gomagic.org/courses/kajiwara-takeo/) - *Inspiring at any level*
 
 ### Words
 
